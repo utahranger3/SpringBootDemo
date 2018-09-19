@@ -124,7 +124,7 @@
         <warFile>target\demo.war</warFile> 
         <path>/demo</path> 
         <username>admin</username>
-        <password>cloud@123</password>
+        <password>soques03</password>
         </configuration> 
         </plugin> 
 
