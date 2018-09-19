@@ -120,7 +120,7 @@
         <version>2.2</version> 
         <configuration> 
         <server>tomcat-development-server</server> 
-        <url>http://144.38.111.111:8080/manager/text</url> 
+        <url>http://144.38.199.165:8080/manager/text</url> 
         <warFile>target\demo.war</warFile> 
         <path>/demo</path> 
         <username>admin</username>
